@@ -1,0 +1,3 @@
+usage:
+
+$.stringToRGB('blabla');
